@@ -13,7 +13,7 @@ Kimi Nonawa
 
 
 my_name = "Josh Novick"
-SID = '510448983'
+SID = '510****83'
 N = int(SID[0:2])
 for i in range(N):
     print(my_name)
