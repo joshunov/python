@@ -2,8 +2,7 @@
 # For example, 'cat' means 'a small domesticated creature'. In python, if 
 # you want to do so, you can use a dictionary.
 
-meaningDictionary = {}
-sizeDictionary = {}
+meaningDictionary,sizeDictionary = {},{}
 
 meaningDictionary["apple"] = "A fruit"
 sizeDictionary["apple"] = 5
