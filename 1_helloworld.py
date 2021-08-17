@@ -1,6 +1,6 @@
 # Let's start with a programmer's classic: Hello World!
 
-print("Hello world!")
+print("Hello Josh!")
 
 # This is the only line of active code in the file. All the other 
 # lines here are comments; these are for humans and the computer
